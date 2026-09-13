@@ -5,7 +5,7 @@ import cookieParser from "cookie-parser";
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("ForgeFlow API is running...");
+  res.send("LinkBridge API is running...");
 });
 
 app.get("/api/v1/health", (req, res) => {
