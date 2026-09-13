@@ -68,7 +68,7 @@ const Register = () => {
           </h1>
 
           <p className="mt-2 text-sm text-slate-400">
-            Start creating better LinkedIn content with ForgeFlow
+            Start creating better LinkedIn content with LinkBridge
           </p>
         </div>
 

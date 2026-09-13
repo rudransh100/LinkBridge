@@ -1,8 +1,8 @@
-# 🚀 ForgeFlow
+# 🚀 LinkBridge
 
 > AI-powered LinkedIn content creation, scheduling, and publishing platform.
 
-ForgeFlow is a full-stack web application that helps creators and developers create, manage, schedule, and publish LinkedIn content from a single workspace.
+LinkBridge is a full-stack web application that helps creators and developers create, manage, schedule, and publish LinkedIn content from a single workspace.
 
 It combines AI-powered content generation, manual editing, LinkedIn OAuth 2.0, media management, scheduled publishing, and background job processing using BullMQ and Redis.
 
@@ -43,7 +43,7 @@ It combines AI-powered content generation, manual editing, LinkedIn OAuth 2.0, m
 - Persistent authentication state
 - Logout functionality
 
-> ForgeFlow currently uses JWT-based authentication. OTP authentication is not implemented.
+> LinkBridge currently uses JWT-based authentication. OTP authentication is not implemented.
 
 ### 🤖 AI Content Generation
 
@@ -151,10 +151,10 @@ It combines AI-powered content generation, manual editing, LinkedIn OAuth 2.0, m
 
 # 📁 Project Structure
 
-ForgeFlow is divided into a frontend React application and a backend Node.js/Express API.
+LinkBridge is divided into a frontend React application and a backend Node.js/Express API.
 
 ```text
-ForgeFlow/
+LinkBridge/
 │
 ├── frontend/
 │   │

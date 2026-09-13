@@ -105,7 +105,7 @@ const ProfileCard = () => {
 
                 <div className="flex items-center gap-2">
                   <FiCalendar className="text-cyan-400" />
-                  {user?.memberSince || "ForgeFlow User"}
+                  {user?.memberSince || "LinkBridge User"}
                 </div>
 
               </div>

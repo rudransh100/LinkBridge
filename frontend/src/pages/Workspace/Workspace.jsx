@@ -323,7 +323,7 @@ const Workspace = () => {
               </h3>
 
               <p className="mt-1 text-sm text-slate-400">
-                You currently have {stats.totalPosts} total posts in ForgeFlow.
+                You currently have {stats.totalPosts} total posts in LinkBridge.
               </p>
             </div>
           </div>

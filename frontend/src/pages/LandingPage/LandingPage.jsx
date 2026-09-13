@@ -57,7 +57,7 @@ const LandingPage = () => {
               />
 
               <span className="text-xl font-bold tracking-tight">
-                Forge<span className="text-cyan-400">Flow</span>
+                Link<span className="text-cyan-400">Bridge</span>
               </span>
             </div>
           </button>
@@ -153,7 +153,7 @@ const LandingPage = () => {
               <span className="h-2.5 w-2.5 rounded-full bg-emerald-400/80" />
 
               <div className="ml-3 rounded-md bg-slate-900 px-4 py-1 text-[10px] text-slate-500">
-                workspace.forgeflow.app
+                workspace.linkbridge.app
               </div>
             </div>
 
@@ -162,7 +162,7 @@ const LandingPage = () => {
               {/* Sidebar */}
               <div className="hidden rounded-xl border border-slate-800 bg-[#101827] p-3 sm:col-span-2 sm:block">
                 <div className="mb-6 text-xs font-bold text-white">
-                  Forge<span className="text-cyan-400">Flow</span>
+                  Link<span className="text-cyan-400">Bridge</span>
                 </div>
 
                 <div className="space-y-2 text-[10px] text-slate-500">
@@ -386,7 +386,7 @@ const LandingPage = () => {
             <span className="ml-2">Content Command Center</span>
           </div>
 
-          <p>© 2026 ForgeFlow. Built for creators and developers.</p>
+          <p>© 2026 LinkBridge. Built for creators and developers.</p>
         </div>
       </footer>
     </main>

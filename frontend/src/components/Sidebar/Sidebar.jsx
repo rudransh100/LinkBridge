@@ -70,7 +70,7 @@ const Sidebar = ({ isOpen, onClose }) => {
 
             <div className="min-w-0">
               <h1 className="text-2xl font-bold leading-none text-white">
-                ForgeFlow
+                LinkBridge
               </h1>
 
               <p className="mt-1 text-sm text-slate-400">Elite Workspace</p>
